@@ -2,6 +2,8 @@
 
 运行在 NAS 上的 AI 额度与 Token 用量中心，通过 Android 额度桥接连接手机和兼容的 vivo 手表。
 
+[官方网站](https://dunn.fun/vivo-watch-hub/)
+
 当前服务版本为 `v1.0.7`。Windows Token 详情采集器版本以源码和构建产物为准；Android 额度桥接为 `v0.3.3-beta9`。
 
 | 需求 | 组件 |
